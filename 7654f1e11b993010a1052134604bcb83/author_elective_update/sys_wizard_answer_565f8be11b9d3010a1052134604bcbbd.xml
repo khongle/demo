@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>Request item</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Request item</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">22b272c58d232010d152b9319a2024c6</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-12 09:47:13</sys_created_on>
+        <sys_id>565f8be11b9d3010a1052134604bcbbd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request item</sys_name>
+        <sys_package display_value="Demo" source="x_613320_demo">7654f1e11b993010a1052134604bcb83</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo">7654f1e11b993010a1052134604bcb83</sys_scope>
+        <sys_update_name>sys_wizard_answer_565f8be11b9d3010a1052134604bcbbd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-12 09:47:13</sys_updated_on>
+        <table/>
+        <target_url>x_613320_demo_request_item.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Demo">7654f1e11b993010a1052134604bcb83</application>
+        <file_path/>
+        <instance_id>3e313a261b0cf81032182f8dee4bcbb7</instance_id>
+        <instance_name>dev116176</instance_name>
+        <name>sys_wizard_answer_565f8be11b9d3010a1052134604bcbbd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>Request item</answer><button_label/><dependent_value/><element/><name>Request item</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">22b272c58d232010d152b9319a2024c6</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-12 09:47:13</sys_created_on><sys_id>565f8be11b9d3010a1052134604bcbbd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Request item</sys_name><sys_package display_value="Demo" source="x_613320_demo">7654f1e11b993010a1052134604bcb83</sys_package><sys_policy/><sys_scope display_value="Demo">7654f1e11b993010a1052134604bcb83</sys_scope><sys_update_name>sys_wizard_answer_565f8be11b9d3010a1052134604bcbbd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-12 09:47:13</sys_updated_on><table/><target_url>x_613320_demo_request_item.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>1244597383</payload_hash>
+        <record_name>Request item</record_name>
+        <reverted_from/>
+        <source>55cd76b21b013010a1052134604bcba4</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2021-07-03 19:27:07</sys_created_on>
+        <sys_id>dfe15b651b9d3010a1052134604bcbfb</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>17a6dd6baf80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Answer</type>
+        <update_guid>9fe15b65c09d3010adf670f256778dfb</update_guid>
+        <update_guid_history>9fe15b65c09d3010adf670f256778dfb:1244597383</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-12 09:58:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>5ab6f4bef0a34322b9a5f650ce822e04</sys_id>
+        <sys_metadata>565f8be11b9d3010a1052134604bcbbd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request item</sys_name>
+        <sys_package display_value="Demo" source="x_613320_demo">7654f1e11b993010a1052134604bcb83</sys_package>
+        <sys_parent display_value="Task">22b272c58d232010d152b9319a2024c6</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Demo">7654f1e11b993010a1052134604bcb83</sys_scope>
+        <sys_scope_delete display_value="">0fa4804a4d7a47c4b4f2ed44a95304a9</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_565f8be11b9d3010a1052134604bcbbd</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_565f8be11b9d3010a1052134604bcbbd">dfe15b651b9d3010a1052134604bcbfb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-12 09:58:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

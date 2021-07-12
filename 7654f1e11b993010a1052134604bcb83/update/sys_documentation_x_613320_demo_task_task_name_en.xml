@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="task_name" label="Task name" language="en" table="x_613320_demo_task">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>task_name</element>
+            <help/>
+            <hint/>
+            <label>Task name</label>
+            <language>en</language>
+            <name>x_613320_demo_task</name>
+            <plural>Task names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-12 10:02:04</sys_created_on>
+            <sys_id>84c297a51b9d3010a1052134604bcb0b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Task name</sys_name>
+            <sys_package display_value="Demo" source="x_613320_demo">7654f1e11b993010a1052134604bcb83</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Demo">7654f1e11b993010a1052134604bcb83</sys_scope>
+            <sys_update_name>sys_documentation_x_613320_demo_task_task_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-12 10:02:04</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

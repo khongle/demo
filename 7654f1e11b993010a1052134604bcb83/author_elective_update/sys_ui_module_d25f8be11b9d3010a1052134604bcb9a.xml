@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="Request item">d65f8be11b9d3010a1052134604bcb97</application>
+        <filter/>
+        <name>Request items</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_613320_demo.request_item_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-12 09:47:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d25f8be11b9d3010a1052134604bcb9a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request items</sys_name>
+        <sys_package display_value="Demo" source="x_613320_demo">7654f1e11b993010a1052134604bcb83</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo">7654f1e11b993010a1052134604bcb83</sys_scope>
+        <sys_update_name>sys_ui_module_d25f8be11b9d3010a1052134604bcb9a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-12 09:47:12</sys_updated_on>
+        <table>x_613320_demo_request_item</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Demo">7654f1e11b993010a1052134604bcb83</application>
+        <file_path/>
+        <instance_id>3e313a261b0cf81032182f8dee4bcbb7</instance_id>
+        <instance_name>dev116176</instance_name>
+        <name>sys_ui_module_d25f8be11b9d3010a1052134604bcb9a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Request item">d65f8be11b9d3010a1052134604bcb97</application><filter/><name>Request items</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_613320_demo.request_item_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-12 09:47:12</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d25f8be11b9d3010a1052134604bcb9a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Request items</sys_name><sys_package display_value="Demo" source="x_613320_demo">7654f1e11b993010a1052134604bcb83</sys_package><sys_policy/><sys_scope display_value="Demo">7654f1e11b993010a1052134604bcb83</sys_scope><sys_update_name>sys_ui_module_d25f8be11b9d3010a1052134604bcb9a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-12 09:47:12</sys_updated_on><table>x_613320_demo_request_item</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>-1531164327</payload_hash>
+        <record_name>Request items</record_name>
+        <reverted_from/>
+        <source>3654f1e11b993010a1052134604bcb85</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-12 09:47:12</sys_created_on>
+        <sys_id>525f8be11b9d3010a1052134604bcb9c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17a9a1d0bdc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-12 09:47:12</sys_updated_on>
+        <type>Module</type>
+        <update_guid>9a5f8be1749d301051345228348cfa9b</update_guid>
+        <update_guid_history>9a5f8be1749d301051345228348cfa9b:-1531164327</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-12 09:58:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>08674670cce74b0e8691a5afb2f731d1</sys_id>
+        <sys_metadata>d25f8be11b9d3010a1052134604bcb9a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request items</sys_name>
+        <sys_package display_value="Demo" source="x_613320_demo">7654f1e11b993010a1052134604bcb83</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Demo">7654f1e11b993010a1052134604bcb83</sys_scope>
+        <sys_scope_delete display_value="">0fa4804a4d7a47c4b4f2ed44a95304a9</sys_scope_delete>
+        <sys_update_name>sys_ui_module_d25f8be11b9d3010a1052134604bcb9a</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_d25f8be11b9d3010a1052134604bcb9a">525f8be11b9d3010a1052134604bcb9c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-12 09:58:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

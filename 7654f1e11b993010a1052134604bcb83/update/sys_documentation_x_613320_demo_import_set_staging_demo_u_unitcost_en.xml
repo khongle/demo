@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_unitcost" label="UnitCost" language="en" table="x_613320_demo_import_set_staging_demo">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_unitcost</element>
+            <help/>
+            <hint/>
+            <label>UnitCost</label>
+            <language>en</language>
+            <name>x_613320_demo_import_set_staging_demo</name>
+            <plural>UnitCosts</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-12 03:26:14</sys_created_on>
+            <sys_id>252835e51b993010a1052134604bcbf4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>UnitCost</sys_name>
+            <sys_package display_value="Demo" source="x_613320_demo">7654f1e11b993010a1052134604bcb83</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Demo">7654f1e11b993010a1052134604bcb83</sys_scope>
+            <sys_update_name>sys_documentation_x_613320_demo_import_set_staging_demo_u_unitcost_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-12 03:26:14</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

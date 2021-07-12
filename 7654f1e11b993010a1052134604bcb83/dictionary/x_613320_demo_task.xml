@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Task" max_length="40" name="x_613320_demo_task" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Task name" max_length="50" name="task_name" type="string"/>
+        <element attributes="encode_utf8=false" label="New Reference" max_length="32" name="u_reference_2" reference="cmdb_ci_appl_dot_net" type="reference"/>
+    </element>
+</database>

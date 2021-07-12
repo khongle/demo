@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_map">
+    <sys_transform_map action="DELETE">
+        <active>true</active>
+        <copy_empty_fields>true</copy_empty_fields>
+        <create_new_record_on_empty_coalesce_fields>false</create_new_record_on_empty_coalesce_fields>
+        <enforce_mandatory_fields>No</enforce_mandatory_fields>
+        <name>Staging demo transform map</name>
+        <order>100</order>
+        <run_business_rules>false</run_business_rules>
+        <run_script>false</run_script>
+        <script><![CDATA[(function transformRow(source, target, map, log, isUpdate) {
+
+	// Add your code here
+
+})(source, target, map, log, action==="update");]]></script>
+        <source_table>x_613320_demo_import_set_staging_demo</source_table>
+        <sys_class_name>sys_transform_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-12 03:21:43</sys_created_on>
+        <sys_id>83b6b1a51b993010a1052134604bcbf4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Staging demo transform map</sys_name>
+        <sys_package display_value="Demo" source="x_613320_demo">7654f1e11b993010a1052134604bcb83</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo">7654f1e11b993010a1052134604bcb83</sys_scope>
+        <sys_update_name>sys_transform_map_83b6b1a51b993010a1052134604bcbf4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-12 03:21:43</sys_updated_on>
+        <target_table>x_613320_demo_import_set_demo</target_table>
+    </sys_transform_map>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Demo">7654f1e11b993010a1052134604bcb83</application>
+        <file_path/>
+        <instance_id>3e313a261b0cf81032182f8dee4bcbb7</instance_id>
+        <instance_name>dev116176</instance_name>
+        <name>sys_transform_map_83b6b1a51b993010a1052134604bcbf4</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_transform_map"&gt;&lt;sys_transform_map action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;copy_empty_fields&gt;true&lt;/copy_empty_fields&gt;&lt;create_new_record_on_empty_coalesce_fields&gt;false&lt;/create_new_record_on_empty_coalesce_fields&gt;&lt;enforce_mandatory_fields&gt;No&lt;/enforce_mandatory_fields&gt;&lt;name&gt;Staging demo transform map&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;run_business_rules&gt;false&lt;/run_business_rules&gt;&lt;run_script&gt;false&lt;/run_script&gt;&lt;script&gt;&lt;![CDATA[(function transformRow(source, target, map, log, isUpdate) {
+
+	// Add your code here
+
+})(source, target, map, log, action==="update");]]&gt;&lt;/script&gt;&lt;source_table&gt;x_613320_demo_import_set_staging_demo&lt;/source_table&gt;&lt;sys_class_name&gt;sys_transform_map&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-07-12 03:21:43&lt;/sys_created_on&gt;&lt;sys_id&gt;83b6b1a51b993010a1052134604bcbf4&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Staging demo transform map&lt;/sys_name&gt;&lt;sys_package display_value="Demo" source="x_613320_demo"&gt;7654f1e11b993010a1052134604bcb83&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Demo"&gt;7654f1e11b993010a1052134604bcb83&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_transform_map_83b6b1a51b993010a1052134604bcbf4&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-07-12 03:21:43&lt;/sys_updated_on&gt;&lt;target_table&gt;x_613320_demo_import_set_demo&lt;/target_table&gt;&lt;/sys_transform_map&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1049471416</payload_hash>
+        <record_name>Staging demo transform map</record_name>
+        <reverted_from/>
+        <source>3654f1e11b993010a1052134604bcb85</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-12 03:21:43</sys_created_on>
+        <sys_id>2b17b1a51b993010a1052134604bcbfb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17a98bc20660000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-12 03:21:43</sys_updated_on>
+        <type>Table Transform Map</type>
+        <update_guid>6317b1a59c9930105e6113767a9969fb</update_guid>
+        <update_guid_history>6317b1a59c9930105e6113767a9969fb:1049471416</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-12 09:29:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_transform_map">sys_transform_map</sys_db_object>
+        <sys_id>18e98eb139834287aed5f194d7d30439</sys_id>
+        <sys_metadata>83b6b1a51b993010a1052134604bcbf4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Staging demo transform map</sys_name>
+        <sys_package display_value="Demo" source="x_613320_demo">7654f1e11b993010a1052134604bcb83</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Demo">7654f1e11b993010a1052134604bcb83</sys_scope>
+        <sys_scope_delete display_value="">0fa4804a4d7a47c4b4f2ed44a95304a9</sys_scope_delete>
+        <sys_update_name>sys_transform_map_83b6b1a51b993010a1052134604bcbf4</sys_update_name>
+        <sys_update_version display_value="sys_transform_map_83b6b1a51b993010a1052134604bcbf4">2b17b1a51b993010a1052134604bcbfb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-12 09:29:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

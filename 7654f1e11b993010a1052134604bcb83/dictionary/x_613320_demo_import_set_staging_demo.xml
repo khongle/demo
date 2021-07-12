@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Import set staging demo" max_length="40" name="x_613320_demo_import_set_staging_demo" sizeclass="27" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Item" max_length="40" name="u_item" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="OrderDate" max_length="40" name="u_orderdate" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Region" max_length="40" name="u_region" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Rep" max_length="40" name="u_rep" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Total" max_length="40" name="u_total" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="UnitCost" max_length="40" name="u_unitcost" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Units" max_length="40" name="u_units" type="string"/>
+    </element>
+</database>

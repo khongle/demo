@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Import set demo" max_length="40" name="x_613320_demo_import_set_demo" sizeclass="9" type="collection">
+        <element label="Country" max_length="300" name="country" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+        <element label="Order date" max_length="40" name="order_date" type="glide_date"/>
+        <element label="Region" max_length="100" name="region" type="string"/>
+        <element label="Total" max_length="15" name="total" type="decimal"/>
+    </element>
+</database>
